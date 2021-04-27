@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+Faça um programa que receba 3 números e mostre o maior.
+*/
+
 int main(void){
 	
 	int n1,n2,n3;

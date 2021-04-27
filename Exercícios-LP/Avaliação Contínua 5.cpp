@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Ler a idade de 50 pessoas, mostrar a média das idades, o número de pessoas com idade abaixo da média, porcentagem de menores de idade e a idade do mais velho.
+*/
+
 int main(void){
 
 int i,idade[50],soma=0,abaixo=0,midade=0,maior;

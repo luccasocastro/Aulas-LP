@@ -1,5 +1,19 @@
 #include <stdio.h>
 
+/*
+Uma editora pretende fazer uma análise estatística sobre os dados de seus pedidos nos últimos
+anos. Faça um algoritmo que receba como entrada, para cada pedido realizado no período, o
+número de livros encomendados e, para cada livro, receba o seguimento do livro (Fundamental,
+Médio ou Superior) e se o livro teve incentivo fiscal ou não. Para encerrar a coleta dos dados, será
+digitado o código -1 na variável de entrada referente ao número de livros do pedido.
+Após o encerramento das leituras, o algoritmo deve imprimir o seguinte relatório:
+- Porcentagem de livros de cada seguimento,
+- Número total de livros que não receberam incentivo fiscal,
+- Média de livros por pedido no período.
+- Quantos pedidos tiveram mais de 20 livros com incentivo fiscal,
+- Quantos livros tinha o maior pedido.
+*/
+
 int main(void){
 
 int nlivros,maior=0,cont,seg,fund=0,med=0,sup=0,op,qntd=0,pedido=0,incs=0,incn=0,cont_inc=0,media;

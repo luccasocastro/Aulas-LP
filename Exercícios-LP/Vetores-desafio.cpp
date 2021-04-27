@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+ Ler nome e idade de 13 pessoas, após as leituras mostrar todos os nomes, suas idades e
+quem é o mais velho.
+*/
+
 int main(void) {
 
 int idade[5][13], ab_media[5];

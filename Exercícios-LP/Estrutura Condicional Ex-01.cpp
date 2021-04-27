@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado, ou reprovado, considerando média de aprovação igual a 7
+*/
+
 int main(void){
 	
 	int n1,n2,n3,n4;

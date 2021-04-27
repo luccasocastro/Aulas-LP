@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+Ler 20 valores reais, somar cada valor lido com uma constante fornecida pelo usuário e,
+logo após, mostrar os resultados.
+*/
+
 int main(void){
 
 int i,cont;

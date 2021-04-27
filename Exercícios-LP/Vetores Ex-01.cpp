@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+Leia 10 números inteiros e, após as leituras, mostre todos os valores na tela.
+*/
+
 int main(void){
 
 int num[10], i;

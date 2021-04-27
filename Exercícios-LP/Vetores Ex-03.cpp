@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+Ler 15 números inteiros, mostrar o maior deles e mostrar esses números em ordem inversa
+da leitura.
+*/
+
 int main(void){
 
 int num[15], i,maior=0;

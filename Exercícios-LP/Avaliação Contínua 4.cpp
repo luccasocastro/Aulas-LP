@@ -1,4 +1,12 @@
 #include <stdio.h>
+
+/*
+Um grupo de alunos coletou informações climáticas de uma determinada cidade. Foram
+realizadas várias medições de temperatura durante o ano e medições mensais do índice
+pluviométrico. Elabore um algoritmo que, dadas estas informações, mostre a média anual de
+temperatura e a média anual de índice pluviométrico.
+*/
+
 int main(void){
 	
 	int i=0,temp,final=0,op;

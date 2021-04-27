@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <conio.h>
 
+/*
+Escreva de 0 a 20 no monitor.
+*/
+
 int main(void){
 	
 	int i;
